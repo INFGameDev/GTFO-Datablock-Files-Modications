@@ -3,9 +3,9 @@
   "Blocks": [
     {
       "range": 11.0,
-      "angle": 45.0,
+      "angle": 70.0,
       "intensity": 0.35,
-      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookieSquareLantern.tif",
       "color": {
         "a": 1.0,
         "r": 1.0,
@@ -21,7 +21,7 @@
       "range": 8.0,
       "angle": 65.0,
       "intensity": 0.55,
-      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_04.tga",
       "color": {
         "a": 1.0,
         "r": 1.0,
@@ -35,9 +35,9 @@
     },
     {
       "range": 13.0,
-      "angle": 45.0,
+      "angle": 55.0,
       "intensity": 0.5,
-      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_04.tga",
       "color": {
         "a": 1.0,
         "r": 0.86,
@@ -51,9 +51,9 @@
     },
     {
       "range": 15.0,
-      "angle": 45.0,
+      "angle": 55.0,
       "intensity": 0.5,
-      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_04.tga",
       "color": {
         "a": 1.0,
         "r": 0.813501239,
@@ -69,7 +69,7 @@
       "range": 16.0,
       "angle": 70.0,
       "intensity": 0.9,
-      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_04.tga",
       "color": {
         "a": 1.0,
         "r": 1.0,
@@ -85,7 +85,7 @@
       "range": 20.0,
       "angle": 45.0,
       "intensity": 0.35,
-      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_01.tga",
+      "cookie": "Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightRegularCookie_04.tga",
       "color": {
         "a": 1.0,
         "r": 1.0,

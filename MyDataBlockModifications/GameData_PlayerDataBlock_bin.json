@@ -8,10 +8,10 @@
       "healthRegenDelay": 1.0,
       "healthRegenPerSecond": 0.2,
       "friendlyFireMulti": 0.5,
-      "fallDamageMinHeight": 8.0,
-      "fallDamageMaxHeight": 16.0,
+      "fallDamageMinHeight": 4.0,
+      "fallDamageMaxHeight": 20.0,
       "fallDamageMin": 1.0,
-      "fallDamageMax": 10.0,
+      "fallDamageMax": 2.0,
       "nanoswarmShieldDamageMultiplierCurve": {
         "keys": [
           {
@@ -128,7 +128,7 @@
       "mediumBatteryConsumtionPerSec": 0.5,
       "largeBatteryConsumtionPerSec": 3.0,
       "walkMoveSpeed": 3.5,
-      "runMoveSpeed": 7.5,
+      "runMoveSpeed": 8.0,
       "airMoveSpeed": 3.0,
       "crouchMoveSpeed": 2.0,
       "ladderMoveSpeed": 1.5,
